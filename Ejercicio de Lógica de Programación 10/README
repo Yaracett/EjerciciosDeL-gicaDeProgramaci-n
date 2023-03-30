@@ -1,0 +1,4 @@
+1-Crear un HashMap con al menos 20 pares de palabras en Español-Inglés
+2-Escoger al azar 5 palabras en Español del HashMap y mostrarlas al usuario para que las traduzca
+3-Pedir al usuario que teclee la traducción al Inglés de cada palabra y comprobar si es correcta
+4-Mostrar cuántas respuestas correctas e incorrectas tuvo el usuario

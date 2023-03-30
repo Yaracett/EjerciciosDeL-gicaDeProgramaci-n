@@ -1,0 +1,8 @@
+1-Primero, importamos las clases necesarias para trabajar con HashMap y Scanner.
+2-creamos la clase Diccionario con el método main.
+3- creamos un objeto HashMap llamado "diccionario" y le agregamos 20 pares de palabras clave-valor.
+4-Solicitamos al usuario una palabra en español utilizando un objeto Scanner y lo almacenamos en una variable llamada "palabra".
+5-Buscamos la traducción de la palabra en el diccionario utilizando el método containsKey y get de HashMap.
+6-Si encontramos la traducción, la mostramos por consola.
+7-Si no encontramos la traducción, mostramos un mensaje indicando que la palabra no se encuentra en el diccionario.
+
